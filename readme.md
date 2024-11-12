@@ -31,5 +31,7 @@ Also, make sure that your git commands are running without errors before you ref
 Then, you can see if you made an error with your git add, commit, or push commands.
 
 
-### _your name and UW net ID_
+### Caitlyn McCulloch caitmcc@uw.edu
 Write your paragraph on the importance of the required plot elements here.
+
+Plot elements are cruicial for figure design because they can interpret your data to enhance comprehension and readability in a large complied data set. Titles and axis labels provide context which can tell viewers just what they are looking at with elements such as units of measurement and time and place these datasets were taken from. A color bar is important for plots with multi dimentional data, as is can convey different meaning for different colors which can help viewers with intense data. Gridlines and labels help with the precise reading in data points if needed to compare with other data sets or data within the same set. Lastly, color schemes can be importatnt for readers
